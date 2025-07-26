@@ -1,6 +1,6 @@
 
 # 💫 About Me:
- i am a Backend Developer and Security Engineer with a focus on developing efficient and secure backend systems. Currently, I am learning Laravel, PHP, and JavaScript to build scalable and secure web applications.<br><br>I have a strong interest in cybersecurity, particularly in API security, web security, and ethical hacking. Additionally, I enjoy collaborating on challenging software development projects and sharing knowledge about best security practices in web development.<br><br>Feel free to reach out if you’d like to discuss backend development or cyberecurity! 🚀🔒
+I am a Front-End Developer and focus on developing efficient and secure application interfaces and systems.<br>I have a strong interest in the field of Front-End Developer, especially creating efficient application interfaces for user experience. <br><br>Don't hesitate to contact me if you want to discuss Front-end development! 🚀🔒
 
 
 # 💻 Tech Stack:
